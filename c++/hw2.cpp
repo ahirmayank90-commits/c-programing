@@ -1,0 +1,1 @@
+//complete the homework that write the uniq entry of the arry //

@@ -1,0 +1,28 @@
+apple banana cherry
+Banana mango orange
+grape Apple watermelon
+1234 numbers test
+error: file not found
+error: file not found
+warning: low memory
+INFO: system rebooted
+success: operation completed
+cat dog elephant
+caterpillar cactus carnival
+Linux is powerful
+Linux is powerful
+Unix is versatile
+grep is useful
+GreP can search text
+pattern matching with regex
+hello world
+HELLO WORLD
+HELLO WORLD
+hello_world_example
+alpha beta alpha
+gama ALPHA beta
+gama ALPHA beta
+beta-beta
+end of practice text
+end of practice text
+
