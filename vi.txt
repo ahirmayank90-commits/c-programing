@@ -1,3 +1,0 @@
-my first command
-my second command
-hi
